@@ -1363,7 +1363,7 @@ void create_accessory() {
     
     
     config.accessories = accessories;
-    config.password = "021-82-017";
+    config.password = “888-88-888";
     
     homekit_server_init(&config);
 }
